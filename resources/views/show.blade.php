@@ -5,10 +5,10 @@
 <div class="container">
     <div class="row">
         <div class="col">
-        <h2>Detalles de la persona a eliminar</h2>
+        <h2>persona a eliminar</h2>
 
         <h4>
-            Una vez eliminada la persona, no se podra recuperar!!!!!
+            Si se elimina no se podra recuperar,
         </h4>
         <hr>
         

@@ -7,7 +7,7 @@
         <div class="col">
 
 
-        <h2>Mi CRUD con MongoDB y Laravel 13</h2>
+        <h2>CRUD - MongoDB</h2>
 
         @if (session('success'))
 
